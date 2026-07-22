@@ -15,8 +15,8 @@
 ```
 name        moon
 handle      @endowing
-focus       full-stack dev, real-time systems, game infra
-currently   building cloud tooling & bots
+focus       backend systems, automation, etc
+currently   building afk.gold
 status      online
 ```
 
@@ -54,7 +54,7 @@ status      online
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](#)
+[![Discord](https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/323220410307051532)
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/endowing)
 
 </div>
